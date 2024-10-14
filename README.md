@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @PrinceRajpal
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning Excel,SQL,Python,Data Visulaization tools , integration of AI 
-- 📫 How to reach me Gmail,noo645283@gmail.com
+-  Hi, I’m @PrinceRajpal
+-  I’m interested in data analytics
+-  I’m currently learning Excel,SQL,Python,Data Visulaization tools , integration of AI 
+-  How to reach me Gmail,noo645283@gmail.com
+-  THIS SQL PROJECT INVOLVES QUESTIONS BASED ON A MUSIC STORE DATABASE AND ITS MANAGMENT
