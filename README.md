@@ -1,1 +1,1 @@
-THIS SQL PROJECT INVOLVES QUESTIONS BASED ON A MUSIC STORE DATABASE AND ITS MANAGMENT
+This project involved analyzing music store sales data using SQL to identify trends, customer segments, and product performance. I used my SQL skills to extract, clean, and transform data, and then applied statistical analysis to uncover insights. This project helped me develop my analytical and problem-solving skills, as well as my ability to work with large datasets and communicate complex information effectively.
